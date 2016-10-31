@@ -1,0 +1,39 @@
+/*лаб 2 Коноваленко 24 октября 2016 г.*/
+body {
+	background-image: url("background.gif");
+	margin-left: 10%;
+	margin-right: 10%;
+}
+#container{
+	border:10px white solid;
+	background-color:#FFFFFF;
+		
+}
+
+#header{
+	background-color: #A8F0F0;
+	text-align: right;
+}
+
+.entry {
+	background-color: #E8FBFB;
+	border-radius: 15px;
+	border:4px #C2E9E9 solid;
+	padding: 5px;
+	margin-top:10px;
+	text-align: justify;
+}
+.entry img{float: right}
+
+.date{border-bottom-style:dashed;
+	border-bottom-width: 2px; 
+border-bottom-color: blue;
+
+}
+#header h2{
+	font-size: 14pt;
+	
+}
+.spacer{
+	clear: right;
+}
